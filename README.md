@@ -13,7 +13,7 @@ Contact page
 ![image](https://user-images.githubusercontent.com/98176785/198703358-e6af69c2-acfe-493e-8feb-cb463f9852a4.png)
 
 Blog page
-![image](https://user-images.githubusercontent.com/98176785/198703938-382f7e0b-73bd-4d2a-9994-b2b556f0613d.png)
+![image](https://user-images.githubusercontent.com/98176785/198705271-048fde1a-4589-43af-976a-c1cdb96f3733.png)
 ![image](https://user-images.githubusercontent.com/98176785/198704137-5cb5e7d7-4708-443f-aaee-6093e8416103.png)
 
 ![Screenshot (562)](https://user-images.githubusercontent.com/98176785/198704487-fb81ec78-61d4-4c8f-99c8-8a1c0961b90f.png)
