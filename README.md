@@ -19,6 +19,6 @@ Blog page
 ![image](https://user-images.githubusercontent.com/98176785/198828533-ef362f8a-e3f0-47b1-859e-4c2ea61228d3.png)
 
 
-![Screenshot (562)](https://user-images.githubusercontent.com/98176785/198704487-fb81ec78-61d4-4c8f-99c8-8a1c0961b90f.png)
+![Screenshot (570)](https://user-images.githubusercontent.com/98176785/198828792-7bc709b9-8e8d-4a16-84ce-0a75afe39fa4.png)
 
 
