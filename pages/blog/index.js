@@ -17,7 +17,7 @@ const blog = ({ data }) => {
   return (
     <>
     <Head>
-        <title>WEBLIT . | Blog  </title>
+        <title>WEBLIT . | USERS  </title>
         <meta name="description" content="Free users details" />
         <meta name="keywords" content="Id name email adress of udifferent users" />
         <meta name="author" content="Aakanksha Karambele" />
@@ -41,7 +41,6 @@ return(
 
 <div key={curElem.id} className="border-l-8 border-gray-400 rounded-br-3xl w-80 pl-10 pr-4 py-5 ml-12 my-6 bg-gray-100 flex flex-col border border-gray-200 shadow-md">
 <h3 className="text-2xl mb-2">{curElem.name}</h3>
-<p className="text-start flex-1 flex flex-row space-x-4 pr-4">Lorem Ipsum is simply dummy printing and typesetting industry. Lorem Ipsum has been the industry's .</p>
 <p className="text-end flex-1 flex flex-row space-x-4 pl-20"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15" />
 </svg>
