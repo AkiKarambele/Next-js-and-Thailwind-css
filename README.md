@@ -13,7 +13,7 @@ About Page
 ![image](https://user-images.githubusercontent.com/98176785/198828408-a70a76ff-460d-4d86-a885-001619cf134a.png)
 
 Contact page
-![image](https://user-images.githubusercontent.com/98176785/198703358-e6af69c2-acfe-493e-8feb-cb463f9852a4.png)
+![image](https://user-images.githubusercontent.com/98176785/198828730-95068083-4fc3-4ccd-bb69-8b150e76229f.png)
 
 Blog page
 ![image](https://user-images.githubusercontent.com/98176785/198828533-ef362f8a-e3f0-47b1-859e-4c2ea61228d3.png)
