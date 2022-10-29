@@ -27,7 +27,7 @@ const Navbar = () => {
           </li>
           <li>
             <Link href="/blog">
-              <h3 className="text-lg border-0 hover:border-b-2 text-white-500 hover:text-blue-600">BLOG</h3>
+              <h3 className="text-lg border-0 hover:border-b-2 text-white-500 hover:text-blue-600">USERS</h3>
             </Link>
           </li>
           
