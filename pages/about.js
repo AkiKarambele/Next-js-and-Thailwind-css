@@ -25,10 +25,9 @@ const about = () => {
      }}>
        
        <div className="m-auto absolute top-52 left-48 left-50 flex flex-row space-x-10 text-white">
-          <div className="border-r-4 pr-32"><h1 className="border-0 hover:border-b-2 text-white-500 hover:text-blue-600 pb-4 pb-7 mt-32 tracking-widest text-center text-4xl font-semibol">About Us</h1></div>
-          <div className="border-b-2 border-r-2 px-20 py-20 bg-black w-3/5"><p>Well, there's a good reason for it — because of their values. The best brands combine physical, emotional, and logical elements into one exceptional customer (and employee) experience that you value as much as they do.
-When your brand creates a genuine connection with customers and employees, they'll stay loyal to your company, thereby increasing your overall profitability. But this type of success doesn’t happen overnight.
-            </p></div>
+          <div className="border-r-4 pr-32"><h1 className="border-0 hover:border-b-2 text-white-500 hover:text-blue-600 pb-4 pb-7 mt-24 tracking-widest text-center text-4xl font-semibol">About Us</h1></div>
+          <div className="border-b-2 border-r-2 px-20 py-20 bg-black w-3/5"><p>Hey, the WEBLIT website  goal is to gather similar people who are interested in the same things. Their goal is the same. Those who don't have similar interests  friends The weblit website in the user section shows who is using weblit.  </p></div>
+      
        </div>
 
     </header>
