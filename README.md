@@ -1,7 +1,7 @@
-# Next-js-and-Thailwind-css
+# Next-js-and-Tailwind-css
 Project using API = https://jsonplaceholder.typicode.com/users Link.
 
-https://user-images.githubusercontent.com/98176785/198700975-311388e1-c18f-449b-85df-3bd7d0f68f1f.mp4
+https://user-images.githubusercontent.com/98176785/198833484-53282081-e610-41e9-a21c-e6388e5c0cce.mp4
 
 Home Page
 
