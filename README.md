@@ -15,7 +15,7 @@ About Page
 Contact page
 ![image](https://user-images.githubusercontent.com/98176785/198828730-95068083-4fc3-4ccd-bb69-8b150e76229f.png)
 
-Blog page
+Users page
 ![image](https://user-images.githubusercontent.com/98176785/198828533-ef362f8a-e3f0-47b1-859e-4c2ea61228d3.png)
 
 
