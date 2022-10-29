@@ -8,7 +8,7 @@ Home Page
 ![image](https://user-images.githubusercontent.com/98176785/198702495-9d429a53-d66f-4398-a395-f846a96f0717.png)
 
 About Page
-![image](https://user-images.githubusercontent.com/98176785/198828311-d80a325f-3de4-451c-8a2f-1810cd45ad05.png)
+![image](https://user-images.githubusercontent.com/98176785/198828408-a70a76ff-460d-4d86-a885-001619cf134a.png)
 
 Contact page
 ![image](https://user-images.githubusercontent.com/98176785/198703358-e6af69c2-acfe-493e-8feb-cb463f9852a4.png)
