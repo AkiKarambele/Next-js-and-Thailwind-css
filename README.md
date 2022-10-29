@@ -1,5 +1,5 @@
 # Next-js-and-Tailwind-css
-Project using API = https://jsonplaceholder.typicode.com/users Link.
+	The user details are fetched by API  https://jsonplaceholder.typicode.com/users Link.
 
 https://user-images.githubusercontent.com/98176785/198833484-53282081-e610-41e9-a21c-e6388e5c0cce.mp4
 
